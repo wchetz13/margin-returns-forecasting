@@ -68,4 +68,26 @@ margin-returns-forecasting/
 ├── requirements.txt
 └── README.md
 ```
+---
+
+## Sample Outputs
+
+### ARIMA Backtest (Actual vs Forecast)
+
+![ARIMA Backtest](outputs/arima_backtest.png)
+
+---
+
+### Future Return Forecast (Next 30 Business Days)
+
+![Future Forecast](outputs/arima_future_forecast.png)
+
+---
+
+### Volatility Forecast (GARCH)
+
+![Volatility Forecast](outputs/garch_vol_forecast.png)
+
+---
+
 
